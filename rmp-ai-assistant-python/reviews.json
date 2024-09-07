@@ -1,0 +1,34 @@
+{
+  "reviews": [
+    {
+      "professor": "Prof1",
+      "review": "Great professor...",
+      "subject": "Math",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Smith",
+      "review": "Challenging but fair. Explains complex topics well.",
+      "subject": "Physics",
+      "stars": 4
+    },
+    {
+      "professor": "Prof. Johnson",
+      "review": "Engaging lectures, but assignments can be unclear.",
+      "subject": "History",
+      "stars": 3
+    },
+    {
+      "professor": "Dr. Lee",
+      "review": "Brilliant researcher, but not the best teacher.",
+      "subject": "Chemistry",
+      "stars": 2
+    },
+    {
+      "professor": "Prof. Garcia",
+      "review": "Inspiring and supportive. Makes literature come alive!",
+      "subject": "English Literature",
+      "stars": 5
+    }
+  ]
+}
